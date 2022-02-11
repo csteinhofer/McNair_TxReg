@@ -1,3 +1,4 @@
-#McNair Center's Regulation Rodeo
+ 
+##McNair Center's Regulation Rodeo
 
-## Currently, all code is in the notebook folder
+### Currently, all code is in the notebook folder
